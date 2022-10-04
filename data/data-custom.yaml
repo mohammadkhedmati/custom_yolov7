@@ -1,0 +1,8 @@
+train: ./data/TRAIN # 118287 images
+val: ./data/VAL  # 5000 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'bird' ]
